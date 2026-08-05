@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Eliza!
 
-<!--
-**elizalungu33-ux/elizalungu33-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Informatics Engineering Student @ UNSTPB | Aspiring Software & Automation Engineer**
 
-Here are some ideas to get you started:
+I am passionate about leveraging technology to solve complex engineering problems, merging the worlds of software and industrial automation. I thrive in team-centric environments and I am currently exploring opportunities to apply my knowledge in real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+*   **Languages:** Python, C++, C, SQL
+*   **Engineering & Simulation:** AutoCAD, MATLAB, Simulink, Xilinx Vivado, Verilog
+*   **Core Skills:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Linux
+
+### 🚀 Currently Working On:
+*   Deepening my knowledge in **Database Management** and system integrations.
+*   Building hands-on projects to bridge the gap between software development and industrial engineering.
+
+### 📫 Let's Connect:
+*   [LinkedIn Profile](www.linkedin.com/in/eliza-maria-lungu-69b82a396)
